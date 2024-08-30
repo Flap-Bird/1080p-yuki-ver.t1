@@ -8,7 +8,7 @@ body {
 #contents {
   display: flex;
   flex-direction: column;
-  min-height: 100vh;
+  min-height: 1080px;
 }
 
 .deleted {
@@ -23,7 +23,7 @@ body {
 }
 
 .channel-profile > img {
-  width: 48px;
+  width: 1920px;
   height: auto;
 }
 
@@ -42,14 +42,14 @@ body a.channel-owner {
 
 .creator-heart {
   position: relative;
-  width: 16px;
-  height: 16px;
+  width: 1920px;
+  height: 1080px;
   border: 2px none;
 }
 
 .creator-heart-background-hearted {
-  width: 16px;
-  height: 16px;
+  width: 1920px;
+  height: 1080px;
   padding: 0px;
   position: relative;
 }
@@ -62,8 +62,8 @@ body a.channel-owner {
 
 .creator-heart-small-container {
   position: relative;
-  width: 13px;
-  height: 13px;
+  width: 1920px;
+  height: 1080px;
   color: rgb(255, 0, 0);
 }
 
@@ -104,7 +104,7 @@ div {
 }
 
 .playlist-restricted {
-  height: 20em;
+  height: 1080px;
   padding-right: 10px;
 }
 
